@@ -1,4 +1,4 @@
-# Coffee Shop Sales — Power BI Report
+# Coffee Shop Sales — Power BI , Sql Report
 
 ## Overview
 This Power BI report (`Coffee_Shop_Sales.pbix`) analyzes transaction-level sales data for a coffee shop business. It tracks revenue, order volume, and quantity sold across time, product categories, and store locations.
